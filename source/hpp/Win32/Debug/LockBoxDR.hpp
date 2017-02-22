@@ -2,7 +2,7 @@
 // Copyright (c) 1995, 2016 by Embarcadero Technologies, Inc.
 // All rights reserved
 
-// (DO NOT EDIT: machine generated header) 'LockBoxDR.dpk' rev: 31.00 (Windows)
+// (DO NOT EDIT: machine generated header) 'LockBoxDR.dpk' rev: 32.00 (Windows)
 
 #ifndef LockboxdrHPP
 #define LockboxdrHPP
@@ -37,6 +37,11 @@
 #include <System.Math.hpp>	// (rtl)
 #include <System.Generics.Defaults.hpp>	// (rtl)
 #include <System.Classes.hpp>	// (rtl)
+// SO_SFX: 250
+// PRG_EXT: .bpl
+// BPI_DIR: C:\Users\Public\Documents\Embarcadero\Studio\19.0\Dcp
+// OBJ_DIR: C:\Users\Public\Documents\Embarcadero\Studio\19.0\Dcp
+// OBJ_EXT: .obj
 
 //-- user supplied -----------------------------------------------------------
 
