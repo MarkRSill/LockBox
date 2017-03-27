@@ -121,6 +121,7 @@ public:
 #pragma pack(pop)
 
 
+#pragma pack(push,1)
 struct DECLSPEC_DRECORD TRDLVector
 {
 	
@@ -138,6 +139,7 @@ public:
 		
 	};
 };
+#pragma pack(pop)
 
 
 typedef System::StaticArray<System::Byte, 8> TKey64;
